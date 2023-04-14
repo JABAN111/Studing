@@ -1,0 +1,3 @@
+ID;Product Name;Coordinates;Creation time;Price;Unit of measure;Manufacture cost;Organization ID;Organization name;Organization full name;Organization count of employees;Type of organization
+1;name;312.0,312;2023-04-13T02:14:25.324379400+03:00[Europe/Moscow];3312.0;LITERS;312312;1;NameOrganization;fullnam312e;931299;PUBLIC
+1321;namdifferente;312.0,312;2023-04-13T02:14:25.324379400+03:00[Europe/Moscow];5000.0;LITERS;312312;1;NameOrganization;fullna3m312e;1;PUBLIC
